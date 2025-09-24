@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="250">
+  <text x="10" y="20" font-family="monospace" font-size="14" fill="black" xml:space="preserve">        10 (Текущий узел)</text>
+  <text x="10" y="40" font-family="monospace" font-size="14" fill="black" xml:space="preserve">       /  \</text>
+  <text x="10" y="60" font-family="monospace" font-size="14" fill="black" xml:space="preserve">      5    15 (РСП)</text>
+  <text x="10" y="80" font-family="monospace" font-size="14" fill="black" xml:space="preserve">     / \     \</text>
+  <text x="10" y="100" font-family="monospace" font-size="14" fill="black" xml:space="preserve">    3   7     20</text>
+  <text x="10" y="120" font-family="monospace" font-size="14" fill="black" xml:space="preserve">       /</text>
+  <text x="10" y="140" font-family="monospace" font-size="14" fill="black" xml:space="preserve">      9</text>
+  <text x="10" y="160" font-family="monospace" font-size="14" fill="black" xml:space="preserve">     / \</text>
+  <text x="10" y="180" font-family="monospace" font-size="14" fill="black" xml:space="preserve">    8   6</text>
+  <text x="10" y="200" font-family="monospace" font-size="14" fill="black" xml:space="preserve">       / \</text>
+  <text x="10" y="220" font-family="monospace" font-size="14" fill="black" xml:space="preserve">   (РСП) (М)</text>
+</svg>
